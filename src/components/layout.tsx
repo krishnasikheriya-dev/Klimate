@@ -11,7 +11,7 @@ const Layout = ({children} : PropsWithChildren) => {
         </main>
         <footer className='border-t backdrop-blur py-12 supports-[backdrop-filter]: bg-background/60'>
             <div className='container mx-auto px-4 text-center text-gray-400'>
-                <p>Made with Love ❤️ by Krishna (Krishna200608)</p>
+                <p>Made with Love ❤️ by Krishna</p>
             </div>
         </footer>
     </div>
