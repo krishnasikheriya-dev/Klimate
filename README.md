@@ -14,14 +14,14 @@
 
   <p>
     <a href="https://klimate-topaz.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/🌐 Live Demo-klimate--topaz.vercel.app-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Live%20Demo-klimate--topaz.vercel.app-blue?style=for-the-badge" />
     </a>
   </p>
 </div>
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌤 Overview
+## Overview
 
 **Klimate** is a full-featured, production-ready weather dashboard application that delivers real-time weather data and forecasts for any city worldwide. Built with a modern, performance-first stack — React 19, Vite 8, and TanStack Query v5 — it features intelligent client-side caching, optimistic UI updates, geolocation-based weather detection, and a polished dark/light theme system.
 
@@ -42,23 +42,23 @@ Data is sourced from the **OpenWeatherMap API**, covering current conditions, 5-
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
-| 📍 **Geolocation Weather** | Auto-detects your current location on load and displays live weather data. |
-| 🔍 **City Search (Command Palette)** | Keyboard-first city search with instant results, powered by `cmdk`. |
-| 📈 **Hourly Temperature Chart** | Interactive Recharts line chart visualizing the next 24 hours of temperature data. |
-| 📅 **5-Day Forecast** | Daily high/low temperatures, weather conditions, and precipitation data. |
-| ⭐ **Favourites System** | Pin cities for one-click access. Persisted to `localStorage` via a custom hook. |
-| 🕑 **Search History** | Automatically tracks your recently viewed cities. |
-| 🌗 **Dark / Light Theme** | System-aware theming with manual override, built on `next-themes`. |
-| ⚡ **Smart Caching** | TanStack Query caches data for 5 minutes, eliminating redundant API calls. |
-| 🔔 **Toast Notifications** | Action feedback (added/removed favourites) via `sonner`. |
+| **Geolocation Weather** | Auto-detects your current location on load and displays live weather data. |
+| **City Search (Command Palette)** | Keyboard-first city search with instant results, powered by `cmdk`. |
+| **Hourly Temperature Chart** | Interactive Recharts line chart visualizing the next 24 hours of temperature data. |
+| **5-Day Forecast** | Daily high/low temperatures, weather conditions, and precipitation data. |
+| **Favourites System** | Pin cities for one-click access. Persisted to `localStorage` via a custom hook. |
+| **Search History** | Automatically tracks your recently viewed cities. |
+| **Dark / Light Theme** | System-aware theming with manual override, built on `next-themes`. |
+| **Smart Caching** | TanStack Query caches data for 5 minutes, eliminating redundant API calls. |
+| **Toast Notifications** | Action feedback (added/removed favourites) via `sonner`. |
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Core
 | Technology | Version | Role |
@@ -87,7 +87,7 @@ Data is sourced from the **OpenWeatherMap API**, covering current conditions, 5-
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Klimate/
@@ -129,7 +129,7 @@ Klimate/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -179,7 +179,7 @@ Navigate to `http://localhost:5173` in your browser.
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 | Variable | Required | Description |
 |---|---|---|
@@ -190,7 +190,7 @@ Navigate to `http://localhost:5173` in your browser.
 
 ---
 
-## 🌐 Deployment to Vercel
+## Deployment to Vercel
 
 Klimate is optimized for zero-config deployment on [Vercel](https://vercel.com).
 
@@ -218,12 +218,12 @@ Every push to `main` triggers an automatic redeployment.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <a href="https://github.com/krishnasikheriya-dev">krishnasikheriya-dev</a></p>
+  <p>Built with love by <a href="https://github.com/krishnasikheriya-dev">krishnasikheriya-dev</a></p>
 </div>
